@@ -42,5 +42,24 @@ git pull
 git push
 
 
+## remote 설정 하는 법
 
+```
+현재 원격 저장소의 상태를 확인한다.
+```
+git remote -v
+
+```
+remote 할 저장소를 별명과 함께 설정한다.
+```
+
+git remote add [별칭] [git주소] <br>
+ex) git remote add alice https:// ~~~~~~ .git
+
+```
+remote 한 저장소에 push 할 때 별명과 함께 push 명령어를 입력한다.
+```
+
+git push [별칭] <br>
+ex) git push alice
 
