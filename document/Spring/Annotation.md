@@ -77,3 +77,29 @@ No
 
 + 테이블의 칼럼을 나타내며 굳이 선언하지 않아도 해당 클래스의 필드는 모두 칼럼이 됩니다.
 + 기본값 외에 추가로 변경이 필요한 옵션이 있는 경우에 사용합니다.
+
+
+```java
+@MappedSuperclass
+```
+
++ JPA Entity 클래스들이 이 어노테이션을 가진 Entity를 상속할 경우 필드들도 칼럼으로 인식하도록 합니다.
+
+```java
+@EntityListeners
+```
+
++ Entity 클래스에 Auditing 기능을 추가시킵니다.
+
+
+```java
+@CreatedDate
+```
+
++ Entity가 생성되어 저장 될 때 시간이 자동 저장됩니다.
+
+```java
+@LastModifiedDate
+```
+
++ 조회한 Entity의 값을 변경 할 때 시간이 자동으로 저장됩니다.
