@@ -11,3 +11,17 @@ https://github.com/jojoldu/freelec-springboot2-webservice
 React의 기본 부터 상세히 적혀 있는 velopert님의 사이트 주소
 ```
 https://velopert.com/
+
+
+# 인텔리제이 DB 설정 관련
+
+``` 
+인텔리제이에서 AWS서버의 파일을 프로그램 없이 업로드 할 수 있게 해주는 방법
+```
+https://2-jissun.tistory.com/17
+
+
+```
+첫 접속시 발생하는 경고창 의미와 추후 해결 방법
+```
+https://junho85.pe.kr/667
