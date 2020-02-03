@@ -4,6 +4,10 @@ jojodu 님의 책 스프링 부트와 AWS로 혼자 구현하는 웹서비스의
 ```
 https://github.com/jojoldu/freelec-springboot2-webservice
 
+```
+spring SMS 보내기 ( 휴대폰 인증 )
+```
+https://beam307.github.io/2017/12/08/sendSMS/
 
 # React 관련 
 
