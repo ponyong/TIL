@@ -13,6 +13,11 @@ https://beam307.github.io/2017/12/08/sendSMS/
 spring Email 보내기 ( 이메일 인증)
 ```
 https://a1010100z.tistory.com/entry/Spring-boot-Spring-boot%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B3%B4%EB%82%B4%EA%B8%B0Spring-boot-starter-JavaMailSender-JSP-Gradle-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EA%B8%B0A1
+
+```
+spring Email 인증 안될 때 2차 보안 설정하는 방법
+```
+https://darkhorizon.tistory.com/324
 # React 관련 
 
 ```
