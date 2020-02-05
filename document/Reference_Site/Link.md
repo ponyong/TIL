@@ -38,3 +38,11 @@ https://2-jissun.tistory.com/17
 첫 접속시 발생하는 경고창 의미와 추후 해결 방법
 ```
 https://junho85.pe.kr/667
+
+# 인증 관련
+
+``` 
+세션, 쿠키 , JWT 의 장단점을 잘 정리해놓으신 사이트
+```
+
+https://tansfil.tistory.com/58
