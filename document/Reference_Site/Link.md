@@ -26,6 +26,14 @@ React의 기본 부터 상세히 적혀 있는 velopert님의 사이트 주소
 https://velopert.com/
 
 
+# JPA 관련
+
+``` 
+JPA에서 순환참조가 발생하는 이유 및 해결 방법
+```
+
+https://binarycube.tistory.com/1
+
 # 인텔리제이 DB 설정 관련
 
 ``` 
