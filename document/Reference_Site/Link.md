@@ -54,3 +54,11 @@ https://junho85.pe.kr/667
 ```
 
 https://tansfil.tistory.com/58
+
+# 채팅 관련
+
+```
+FireBase 을 활용한 WEB 채팅 구현을 순서대로 잘 구현해놓은 사이트 
+```
+
+https://suwoni-codelab.com/firebase/2017/12/01/firebase-intro/
