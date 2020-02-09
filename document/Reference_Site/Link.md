@@ -62,3 +62,9 @@ FireBase 을 활용한 WEB 채팅 구현을 순서대로 잘 구현해놓은 사
 ```
 
 https://suwoni-codelab.com/firebase/2017/12/01/firebase-intro/
+
+```
+Spring Boot + WebSocket 을 활용한 채팅 서비스 구현 
+```
+
+https://daddyprogrammer.org/post/4077/spring-websocket-chatting/
