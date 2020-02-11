@@ -68,3 +68,13 @@ Spring Boot + WebSocket 을 활용한 채팅 서비스 구현
 ```
 
 https://daddyprogrammer.org/post/4077/spring-websocket-chatting/
+
+# 크롤링 관련
+
+```
+JSoup 를 이용한 Spring 환경에서 크롤링 구현
+```
+
+https://coding-start.tistory.com/31
+https://yujuwon.tistory.com/entry/jsoup-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+
