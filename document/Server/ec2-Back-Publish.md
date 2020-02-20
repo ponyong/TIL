@@ -15,6 +15,7 @@
 
 ```
 
-```
-    nohup java -jar catdog-1.0-SNAPSHOT.jar &
+```javascript
+    java -jar catdog-1.0-SNAPSHOT.jar   // 일반 실행
+    nohup java -jar catdog-1.0-SNAPSHOT.jar &  // 백그라운드 실행
 ```
