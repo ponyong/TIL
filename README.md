@@ -8,11 +8,7 @@
 
 # 현재 공부중인 과목
 
-### Spring
-
-### Spring Boot
-
-### Node.js
+# Front End
 
 ### HTML
 
@@ -22,20 +18,36 @@
 
 ### Vue.js
 
-### Vue
+# Back End
+
+### Spring
+
+### Spring Boot
+
+### Node.js
+
+# Language
 
 ### JAVA
 
+# DataBase
+
 ### JPA
 
-### Algorithm
+### MySQL
 
-### GIT
-
-### MD_Language
+# Computer Science
 
 ### NETWORK
 
 ### OS
 
 ### Software Engineering
+
+# Etc
+
+### Algorithm
+
+### GIT
+
+### MD_Language
