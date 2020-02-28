@@ -92,3 +92,11 @@ MD에 활용되는 이모지 관련 링크
 ```
 
 https://steemit.com/steemkr-guide/@snow-airline/steemkr-quick-start-guide
+
+# Node Server 배포 관련
+
+```
+node server를 무중단 배포 할 수 있는 pm2 활용 방법
+```
+
+https://www.deok.me/entry/NodeJS-pm2-%EB%A5%BC-%ED%86%B5%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0
