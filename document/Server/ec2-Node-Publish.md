@@ -11,3 +11,27 @@
 ```
 node server.js
 ```
+
+## 무중단 배포
+
+```
+pm2 를 활용하여 배포 하는 방법
+```
+
+```java
+
+// 켜는 방법
+npm install pm2 -g
+
+pm2 start app.js
+
+// 멈추는 방법
+
+pm2 stop (num)
+pm2 stop 0
+
+// 삭제하는 방법
+
+pm2 kill
+
+```
