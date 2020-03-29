@@ -100,3 +100,11 @@ node server를 무중단 배포 할 수 있는 pm2 활용 방법
 ```
 
 https://www.deok.me/entry/NodeJS-pm2-%EB%A5%BC-%ED%86%B5%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0
+
+# AWS 관련
+
+```
+AWS에 관한 설명을 자세히 적어놓으신 갓대희님의 티스토리
+```
+
+https://goddaehee.tistory.com/174
