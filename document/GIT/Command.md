@@ -9,7 +9,7 @@
 git config --global user.name "Your name" <br>
 git config --global user.email "Your email" <br>
 
-## 기본 명령어 
+## 기본 명령어
 
 ```
 현재 상태 보기
@@ -25,14 +25,21 @@ git add <파일> <br>
 git add . // 모든 파일 <br>
 
 ```
-commit 상태로 변경 
+commit 상태로 변경
 ```
 
 git commit -m "커밋메세지"
 
 ```
+커밋 메세지를 여러줄로 작성하는 법
+```
+
+commit -m 후에 여는 따옴표 " 후에 닫히는 따옴표를 만나기전 엔터는 개행으로 처리 된다.
+
+```
 마스터에서 최신버전 갱신
 ```
+
 git pull
 
 ```
@@ -41,19 +48,19 @@ git pull
 
 git push
 
-
 ## remote 설정 하는 법
 
 ```
 현재 원격 저장소의 상태를 확인한다.
 ```
+
 git remote -v
 
 ```
 remote 할 저장소를 별명과 함께 설정한다.
 ```
 
-git remote add [별칭] [git주소] <br>
+git remote add [별칭][git주소] <br>
 ex) git remote add alice https:// ~~~~~~ .git
 
 ```
@@ -76,4 +83,3 @@ ex) git push alice
 4. 그 후 devlop으로 Merge Request 를 보내 Conflict가 나지 않으면 merge 승인
 
 5. 그 후 dev에서 합쳐진 파일에서 이상이 없다면 master 로 릴리즈를 실행
-
