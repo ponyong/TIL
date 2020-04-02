@@ -32,6 +32,12 @@ Vue.js 의 입문서
 
 https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/
 
+```
+Vuetify.js 기본 도큐먼트
+```
+
+https://vuetifyjs.com/ko/getting-started/quick-start/
+
 # React 관련
 
 ```
