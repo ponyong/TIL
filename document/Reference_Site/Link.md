@@ -38,6 +38,12 @@ Vuetify.js 기본 도큐먼트
 
 https://vuetifyjs.com/ko/getting-started/quick-start/
 
+```
+Vuetify 각종 참고 자료
+```
+
+https://m.blog.naver.com/PostView.nhn?blogId=clay1987&logNo=221397398009&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
 # React 관련
 
 ```
