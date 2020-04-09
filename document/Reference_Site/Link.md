@@ -44,6 +44,12 @@ Vuetify 각종 참고 자료
 
 https://m.blog.naver.com/PostView.nhn?blogId=clay1987&logNo=221397398009&proxyReferer=https%3A%2F%2Fwww.google.com%2F
 
+```
+모던 웹 제작을 위한 참고 사이트
+```
+
+https://fkkmemi.github.io/nemv/nemv-082-dashboard-layout/
+
 # React 관련
 
 ```
