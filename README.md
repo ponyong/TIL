@@ -18,6 +18,8 @@
 
 ### Vue.js
 
+### Vuetify
+
 # Back End
 
 ### Spring
@@ -26,9 +28,13 @@
 
 ### Node.js
 
+### Django
+
 # Language
 
 ### JAVA
+
+### Python
 
 # DataBase
 
