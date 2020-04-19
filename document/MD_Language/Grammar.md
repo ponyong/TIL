@@ -145,3 +145,9 @@ width, height 등으로 크기 조절 가능
 ```
 
 <img src = "https://user-images.githubusercontent.com/32259122/75038657-2656c780-54fa-11ea-9a25-b837951dfa23.png" width = 100px height = 100px>
+
+# 각주
+
+글에 세부 참조 사항을 달 수 있습니다.<sup>[1](#test)</sup>
+
+<a name="test">1</a>: 각주에 관한 설명을 이러한 폼으로 작성하면 연결된 각주를 만들수 있습니다.
