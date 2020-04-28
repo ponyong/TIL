@@ -134,3 +134,11 @@ AWS에 관한 설명을 자세히 적어놓으신 갓대희님의 티스토리
 ```
 
 https://goddaehee.tistory.com/174
+
+# 기술 면접 관련
+
+```
+자주 나오는 기술 면접 질문들이 잘 요약된 Repository
+```
+
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner
