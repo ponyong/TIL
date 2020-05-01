@@ -34,6 +34,8 @@
 
 ### JAVA
 
+### JavaScript
+
 ### Python
 
 # DataBase
