@@ -72,14 +72,23 @@ ex) git push alice
 
 ## branch 분기 한 경우 커밋 및 Merge 방법
 
-1. 내 branch에서 commit 까지 완료한다.
+1. 새로운 작업 브랜치를 생성한다.
 
-2. dev가 갱신 되었을수 있으므로 dev를 내 브랜치로 병합한다.
-   feature를 활성화 하고 우클릭 + 현재 브랜치로 dev 를 병합
-   이렇게 하면 feature가 최신화 되며 충돌 되는 파일을 알려준다.
+```
+git branch
 
-3. 2번 단계에서 발생한 충돌을 모두 제거 한 후 다시 커밋 실행
+현재 있는 branch list를 확인한다.
 
-4. 그 후 devlop으로 Merge Request 를 보내 Conflict가 나지 않으면 merge 승인
 
-5. 그 후 dev에서 합쳐진 파일에서 이상이 없다면 master 로 릴리즈를 실행
+git branch 브랜치 이름
+
+git branch test
+
+test 라는 브랜치를 생성한다.
+```
+
+2. 생성한 브랜치로 이동한다.
+
+```
+git checkout test
+```
