@@ -92,3 +92,24 @@ test 라는 브랜치를 생성한다.
 ```
 git checkout test
 ```
+
+3. 생성한 브랜치에서 작업한 경우
+
+```
+변경 사항을 저장한다.
+
+git add .
+
+git commit -m "커밋"
+
+git push
+
+```
+
+4. 브랜치에서 모든 작업이 끝난 경우 Merge를 한다.
+
+```
+git checkout develop
+
+git merge test
+```
