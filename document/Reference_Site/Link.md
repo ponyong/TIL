@@ -173,6 +173,10 @@ https://goddaehee.tistory.com/174
 
 https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
-```
+# 기타
 
+다양한 ppt 플랫폼을 제공해주는 혜링님 블로그
+
+```
+https://blog.naver.com/jee6959
 ```
