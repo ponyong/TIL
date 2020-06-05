@@ -161,6 +161,14 @@ AWS에 관한 설명을 자세히 적어놓으신 갓대희님의 티스토리
 
 ```
 
+# 배포 관련
+
+```
+Let's Encrypt를 통해 Nginx에서 무료로 https 설정하기
+```
+
+https://twpower.github.io/44-set-free-https-by-using-letsencrypt
+
 https://goddaehee.tistory.com/174
 
 # 기술 면접 관련
