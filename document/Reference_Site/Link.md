@@ -63,6 +63,18 @@ https://remocon33.tistory.com/586
 Go 튜토리얼 
 ```
 http://golang.site/go/article
+
+
+```
+File I/O를 위한 패키지 ( os , io , ioutils , bufio ) 에 대한 비교
+```
+
+https://xoit.tistory.com/3#recentEntries
+
+```
+File Permission과 관련된 내용
+```
+https://jhnyang.tistory.com/11
 # React 관련
 
 ```
